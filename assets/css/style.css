@@ -22,5 +22,6 @@ p {
 img {
     width: 165px;
     height: 160px;
-    display: -moz-box;
+   border-style: dotted;
+   border-width: 5px;
 }
