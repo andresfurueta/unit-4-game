@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/pastel.jpg);
+}
+
+.container {
+    background-color: grey;
+    color: burlywood
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+    font-size: 30px;
+}
+
+img {
+    width: 165px;
+    height: 160px;
+    display: -moz-box;
+}
